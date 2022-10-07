@@ -1,6 +1,6 @@
 # ecommerce-simple
- Ecommerce site made with bootstrap and html
+**Ecommerce site made with bootstrap and html**
 
 
 The site as visible online website
-e-commerce-simple.netlify.app
+https://e-commerce-simple.netlify.app
